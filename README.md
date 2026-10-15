@@ -9,7 +9,7 @@
 Landing page moderna, interactiva y de alto impacto visual desarrollada para presentar y demostrar las capacidades de la **Skill de Gemini especializada en Medicina Veterinaria**, con foco temático en **Genética Celular, Meiosis y Gametogénesis Animal** en especies domésticas clave (*bovinos, caninos y equinos*).
 
 ---
-
+#enlacelanding:https://davidaristimunoz17-lab.github.io/skill-gemini-veterinaria-meiosis/
 ## 📋 Tabla de Contenidos
 
 1. [Visión General del Proyecto](#-visión-general-del-proyecto)
